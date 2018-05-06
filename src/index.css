@@ -1,0 +1,22 @@
+
+footer {
+  padding-top: 48px;
+  margin-bottom: 48px;
+  color: #303030;
+  font-size: 14px;
+  text-align: center;
+  position: relative;
+}
+.place{  
+  width: 42px;
+  padding: 2px;
+  background: red;
+  color: yellow; 
+}
+.scroll {
+  margin: auto;
+  width: 40px;
+}
+.mapa{
+  min-width:400px; 
+}
